@@ -1,0 +1,271 @@
+
+/*  var() لتنسيق الالوان وتخزينها بمتغير ليتم استدعائها مباشرة في الكود*/
+:root {
+ --bs-pinkk: #d36c85;
+ --bs-donutt:#eeae7b;
+ --bs-orangee:#e68d44;
+--bs-baby: #f3c6d1;
+ --bs-pink3: #350712;
+    }
+
+*{
+    margin: 0;
+    padding: 0;
+   
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+html::-webkit-scrollbar-track{
+    background: transparent;
+}
+html::-webkit-scrollbar-thumb{
+    background: var(--bs-pinkk);
+    border-radius: 10px;
+}
+html::-webkit-scrollbar{
+    width: 15px;
+}
+
+/* Navbar  */
+#navbar{
+    
+}
+#logo img{
+  
+}
+.nav-item .nav-link{
+  
+}
+.nav-item .nav-link:hover{}
+  
+#nvabar input{
+ 
+}
+#btn{
+  
+}
+#btn:hover{
+  
+}
+#cartt{
+   
+}
+#cartt:hover{
+   
+   
+}
+
+
+
+
+
+/* Home  */
+.home{
+   
+}
+.home .img{
+   
+}
+.home .img img{
+   
+}
+.home-content{
+ 
+}
+.home-content h3{
+  
+}
+.home-content h3 span{
+    
+}
+
+@media screen and (max-width:873px){
+  
+}
+
+
+
+/* about*/
+
+.about{
+}
+.about h1{
+ 
+}
+.about h3{
+   
+}
+.about .row{
+    
+}
+.about .row .card{
+  
+}
+.about .row .card:hover{
+   
+}
+.about .row .card img{
+   
+}
+.about .card-body{
+   
+}
+
+.about .card-body h1{
+ 
+}
+
+
+
+
+
+/* menu  */
+.menu{
+  
+}
+.menu h3{
+   
+}
+.menu h2{
+   
+}
+.menu h2 i{
+   
+}
+.menu h6{
+ 
+}
+.rating i{
+    
+}
+.menu p{
+   
+}
+.menu p i{
+   
+}
+
+.menu .row .card img{
+    
+}
+
+
+
+
+
+
+/* Order  */
+.order{
+    
+}
+.heading{
+   
+}
+.heading span{}
+   
+.order textarea{
+   
+}
+.order-btn{
+   
+}
+.order-btn:hover{
+  
+}
+
+
+
+
+
+
+/* review */
+.review{
+   
+}
+.review .card{
+   
+}
+.review h3{
+  
+}
+.review h2{}
+   
+.review h5{
+    
+}
+.review h5 a{
+    
+}
+.review h5 img{
+        
+   
+}
+
+@media screen and(max-width: 636px){
+  
+}
+
+
+
+
+
+/* contact */
+.contact{
+   
+}
+.contact .col-md-5{
+   
+}
+.contact h3{
+  
+}
+.contact i span{
+  
+}
+
+
+/*table in cart*/
+.table thead tr{
+   
+}
+.table thead tr th{
+    
+}
+
+/* style for alert */
+  .custom-alert {
+  
+  }
+
+  .custom-alert i{
+   
+  }
+
+  
+
+
+
+
+
+/* footer */
+#footer{
+}
+#footer .f-content{
+    
+}
+.f-logo img{
+   
+}
+.f-content i{
+  
+}
+.f-content i:hover{
+   
+}
+.c-content{
+   
+}
+.c-content span a{
+   
+    
+}
